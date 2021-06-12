@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
           ),
           body: Builder(
             builder: (context) => SingleChildScrollView(
+              
               child: Padding(
                 padding: const EdgeInsets.all(38.0),
                 child: Center(
